@@ -130,12 +130,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 👥 Project Team
 
-- **Vignesh S** – Model Building & Training  
-- **Umar Farooq** – Front-End Design & Exploratory Data Analysis  
-- **Vikram** – Data Cleaning & Feature Engineering  
-- **Sheshathri** – Documentation & Reporting
 
 ---
 
